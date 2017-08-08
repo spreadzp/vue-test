@@ -15,7 +15,7 @@
 </template>
 <script>
 import { mapState, mapMutations } from 'vuex'
-import { axios } from 'axios'
+// import { axios } from 'axios'
 
 export default {
   computed: {
